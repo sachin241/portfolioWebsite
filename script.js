@@ -249,7 +249,7 @@ window.addEventListener("keydown", (event) => {
     closeMobileNav();
   }
 });
-
+ 
 window.addEventListener("load", () => {
   setActiveLink();
   updateHeaderState();
